@@ -13,7 +13,6 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel la
 ###### Sample heading 6
 
 Mauris viverra dictum ultricies. Vestibulum quis ipsum euismod, facilisis metus sed, varius ipsum. Donec scelerisque lacus libero, eu dignissim sem venenatis at. Etiam id nisl ut lorem gravida euismod.
-
 ## Lists
 
 Unordered:
@@ -30,29 +29,7 @@ Ordered:
 4. Nam a est eget ligula pellentesque posuere.
 
 ## Blockquote
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The following is a blockquote:
-
-
 > Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
 
 ## Thematic breaks (<hr>)
