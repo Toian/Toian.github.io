@@ -5,4 +5,6 @@ gem 'github-pages'
 
 gem "webrick", "~> 1.7"
 
+gem "kramdown-parser-gfm"
+
 gem "no-style-please"
